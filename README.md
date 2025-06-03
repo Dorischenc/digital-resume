@@ -7,9 +7,6 @@
 
 ---
 
-
-# digital-resume
-My GitHub resume for Fu Jen competition
 # 陳詩涵 Doris Chen
 
 ## 🎯 關於我
