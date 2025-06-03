@@ -7,10 +7,6 @@
 
 ---
 
-## 🌐 Language / 語言
-
-- [🇺🇸 English Resume](en.md)
-- [🇹🇼 中文履歷](zh.md)
 
 # digital-resume
 My GitHub resume for Fu Jen competition
