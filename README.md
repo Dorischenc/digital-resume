@@ -27,6 +27,14 @@ My GitHub resume for Fu Jen competition
 ## 🚀 專案經歷
 - **GitHub 數位履歷徵件**  
   描述：使用 GitHub 架設個人履歷，學習版本控制與 Markdown 語法。
+  輔仁大學路跑社社長與創辦人（2024年4月－至今）
+創立並經營校內首個路跑社團，社員人數超過 100 人
+
+規劃每週訓練活動與社群經營，提升學生參與與社團活力
+
+管理 Instagram 平台內容（Reels、貼文），提高社團曝光度與參與率
+
+
 
 ## 📷 個人照片
 ![個人照片](https://github.com/Dorischenc/digital-resume/blob/main/Doris_Photo.jpg?raw=true)
