@@ -1,3 +1,17 @@
+<img src="cover.png" alt="Doris Chen Resume Cover" width="100%" />
+
+# Welcome to Doris Chen's Digital Resume
+
+🌏 Finance & International Business Student | 🌱 ESG & Sustainability Advocate  
+📬 Contact: dorischenc@gmail.com | [GitHub](https://github.com/dorischenc) | [LinkedIn](https://www.linkedin.com/in/dorischenc)
+
+---
+
+## 🌐 Language / 語言
+
+- [🇺🇸 English Resume](en.md)
+- [🇹🇼 中文履歷](zh.md)
+
 # digital-resume
 My GitHub resume for Fu Jen competition
 # 陳詩涵 Doris Chen
