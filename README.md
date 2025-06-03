@@ -1,4 +1,4 @@
-<img src="cover.jpg" alt="Doris Chen Resume Cover" width="100%" />
+<img src="cover.JPG" alt="Doris Chen Resume Cover" width="100%" />
 
 # Welcome to Doris Chen's Digital Resume
 
