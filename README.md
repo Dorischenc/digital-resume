@@ -19,7 +19,7 @@ My GitHub resume for Fu Jen competition
   描述：使用 GitHub 架設個人履歷，學習版本控制與 Markdown 語法。
 
 ## 📷 圖片與檔案
-![個人照片](https://drive.google.com/file/d/1rwIEKn8XJSwwywDEO7cbuoIB5siJY00f/view?usp=sharing)
+![個人照片]([https://drive.google.com/file/d/1rwIEKn8XJSwwywDEO7cbuoIB5siJY00f/view?usp=sharing](https://github.com/Dorischenc/digital-resume/blob/main/Doris_Photo.jpg?raw=true)
 
 ## 📬 聯絡方式
 - GitHub: [你的帳號名稱](https://github.com/dorischenc)
