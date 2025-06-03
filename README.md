@@ -18,7 +18,7 @@ My GitHub resume for Fu Jen competition
 - **GitHub 數位履歷徵件**  
   描述：使用 GitHub 架設個人履歷，學習版本控制與 Markdown 語法。
 
-## 📷 圖片與檔案
+## 📷 個人照片
 ![個人照片](https://github.com/Dorischenc/digital-resume/blob/main/Doris_Photo.jpg?raw=true)
 
 ## 📬 聯絡方式
