@@ -25,7 +25,7 @@ My GitHub resume for Fu Jen competition
 - GitHub: [dorischenc](https://github.com/Dorischenc)
 - Email: dorischenc@gmail.com
 
-# 陳詩涵 Doris Chen
+# Shih Han Chen (Doris)
 
 📍 Hsinchu City, Taiwan | 📧 dorischenc@gmail.com | [LinkedIn](https://www.linkedin.com/in/dorischenc) | GitHub: [dorischenc](https://github.com/dorischenc)
 ---
