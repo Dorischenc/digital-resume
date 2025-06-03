@@ -28,15 +28,6 @@ My GitHub resume for Fu Jen competition
 # 陳詩涵 Doris Chen
 
 📍 Hsinchu City, Taiwan | 📧 dorischenc@gmail.com | [LinkedIn](https://www.linkedin.com/in/dorischenc) | GitHub: [dorischenc](https://github.com/dorischenc)
-
----
-
-## 🎯 Objective
-
-Motivated and globally-minded student majoring in Finance and International Business, with a strong commitment to sustainability and green finance. Passionate about cross-cultural communication and language learning, currently improving German proficiency to enhance academic engagement and integrate more fully into local communities.
-
-Currently preparing for an exchange semester in Germany to deepen expertise in ESG investing and serve as a bridge between Taiwanese and European sustainability practices.
-
 ---
 
 ## 🎓 Education
