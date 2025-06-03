@@ -24,3 +24,92 @@ My GitHub resume for Fu Jen competition
 ## 📬 聯絡方式
 - GitHub: [dorischenc](https://github.com/Dorischenc)
 - Email: dorischenc@gmail.com
+
+# 陳詩涵 Doris Chen
+
+📍 Hsinchu City, Taiwan | 📧 dorischenc@gmail.com | [LinkedIn](https://www.linkedin.com/in/dorischenc) | GitHub: [dorischenc](https://github.com/dorischenc)
+
+---
+
+## 🎯 Objective
+
+Motivated and globally-minded student majoring in Finance and International Business, with a strong commitment to sustainability and green finance. Passionate about cross-cultural communication and language learning, currently improving German proficiency to enhance academic engagement and integrate more fully into local communities.
+
+Currently preparing for an exchange semester in Germany to deepen expertise in ESG investing and serve as a bridge between Taiwanese and European sustainability practices.
+
+---
+
+## 🎓 Education
+
+**Fu Jen Catholic University**  
+_Bachelor of Finance and International Business_ (Expected Jun. 2026)  
+GPA: 4.0 / 4.0  
+**Relevant Coursework**: Investment, Financial Statement Analysis, Advanced Statistical Decision Analysis, Marketing Management, Macroeconomics, Microeconomics, Accounting, Statistics, Linear Algebra
+
+---
+
+## 💼 Experience
+
+**Finance Intern**  
+_Fleur Lis Hotel, Hsinchu City_ | Jun. 2023 – Aug. 2023  
+- Conducted cost analysis for 5+ new products to support pricing strategies  
+- Performed inventory verification and assisted in financial auditing for accuracy and compliance
+
+**Undergraduate Research Assistant**  
+_National Science and Technology Council_ | Oct. 2024 – Present  
+- Researched double machine learning in economics to enhance predictive financial models  
+- Reviewed 50+ academic papers, synthesizing insights on financial methodologies  
+- Used SAS for data analysis, optimizing model performance and forecasting
+
+---
+
+## 📌 Projects & Leadership
+
+**Founder & Captain**  
+_Running Club, FJCU_ | Apr. 2024 – Present  
+- Built a 100+ member community and organized weekly fitness sessions  
+- Managed Instagram content (Reels/Posts) to boost student participation
+
+**Delegate**  
+_2024 Catholic University Conference, Sydney_ | Aug. 2022  
+- Represented FJCU in a multinational academic exchange  
+- Engaged in cultural and leadership dialogues with peers from 10+ countries
+
+**Business Development Leader**  
+_Finance Lab, FJCU_ | Feb. 2022 – Feb. 2023  
+- Organized campus market (1,000+ attendees) with 50+ sponsor partners  
+- Authored event proposals and maintained corporate communication channels
+
+**Youth Ambassador**  
+_Global Youth Trends Forum_ | Nov. 2023  
+- Led group discussions on global sustainable development  
+- Hosted cultural tours for foreign representatives to promote Taiwanese heritage
+
+---
+
+## 🏆 Awards & Recognitions
+
+- **Honorable Mention** | 2024 National Collegiate International Trade Project  
+- **Academic Excellence Award** | Fall 2022 & Spring 2023
+
+---
+
+## 🧰 Skills
+
+- **Data Analysis**: SAS, Stata  
+- **Project & Event Management**  
+- **Content Creation**: Instagram (Reels, Shorts, Posts)  
+- **Tools**: Microsoft Office (Excel, PowerPoint, Word)  
+- **Communication & Teamwork**
+
+---
+
+## 🌍 Languages
+
+- **English**: IELTS 7 (2024), TOEIC 910 (2022)  
+- **German**: Basic conversational, actively learning  
+
+---
+
+> ✨ _“Always exploring how finance, sustainability, and global cultures connect to shape a more inclusive economy.”_
+
