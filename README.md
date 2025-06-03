@@ -22,5 +22,5 @@ My GitHub resume for Fu Jen competition
 ![個人照片](https://github.com/Dorischenc/digital-resume/blob/main/Doris_Photo.jpg?raw=true)
 
 ## 📬 聯絡方式
-- GitHub: [你的帳號名稱](https://github.com/Dorischenc))
+- GitHub: [dorischenc](https://github.com/Dorischenc)
 - Email: dorischenc@gmail.com
