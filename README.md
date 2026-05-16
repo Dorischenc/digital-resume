@@ -6,7 +6,8 @@
 📬 Contact: dorischenc@gmail.com | [GitHub](https://github.com/dorischenc) | [LinkedIn](https://www.linkedin.com/in/dorischenc)
 
 ---
-
+# 中文版本 | Chinese Version
+---
 # 陳詩涵 Doris Chen
 
 ## 🎯 關於我
@@ -61,6 +62,10 @@
 - GitHub: [dorischenc](https://github.com/Dorischenc)
 - Email: dorischenc@gmail.com
 
+
+# English Version
+---
+
 # Shih Han Chen (Doris)
 
 📍 Hsinchu City, Taiwan | 📧 dorischenc@gmail.com | [LinkedIn](https://www.linkedin.com/in/dorischenc) | GitHub: [dorischenc](https://github.com/dorischenc)
@@ -104,7 +109,7 @@ _Running Club, FJCU_ | Apr. 2024 – Present
 - Managed Instagram content (Reels/Posts) to boost student participation
 
 **Delegate**  
-_2024 Catholic University Conference, Sydney_ | Aug. 2022  
+_2024 Catholic University Conference, Sydney_ | Aug. 2024 
 - Represented FJCU in a multinational academic exchange  
 - Engaged in cultural and leadership dialogues with peers from 10+ countries
 
