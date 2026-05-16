@@ -24,10 +24,6 @@
 - 雷根斯堡大學 University of Regensburg（德國）  
 交換學生 Exchange Student ｜2025 – 2026  
 
-- 國際商務與跨文化交流學習  
-- 德語進修與國際學術交流  
-- 培養全球視野與跨文化溝通能力
-
 ## 🧰 技能與工具
 - Git & GitHub（入門中）
 - Excel / 資料處理
