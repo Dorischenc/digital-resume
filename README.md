@@ -10,7 +10,9 @@
 # 陳詩涵 Doris Chen
 
 ## 🎯 關於我
-輔仁大學學生，對資料整理、語言學習與跨文化交流充滿熱情。正在學習 GitHub 並參與數位履歷競賽！
+輔仁大學金融與國際企業學系學生，對資料分析、語言學習與跨文化交流充滿熱情
+目前於德國雷根斯堡大學交換，持續培養國際視野與跨文化溝通能力 (2025.09-2026.08)
+正在學習 GitHub、數位工具與資料處理，希望結合商業、永續與國際交流創造更多可能性
 
 ## 📚 教育背景
 - 輔仁大學金融與國際企業學系 三年級（就讀中）
@@ -62,6 +64,12 @@
 _Bachelor of Finance and International Business_ (Expected Jun. 2026)  
 GPA: 4.0 / 4.0  
 **Relevant Coursework**: Investment, Financial Statement Analysis, Advanced Statistical Decision Analysis, Marketing Management, Macroeconomics, Microeconomics, Accounting, Statistics, Linear Algebra
+### University of Regensburg (Universität Regensburg), Germany  
+_Exchange Student_ | 2025 – 2026  
+
+- Studying international business, German language, and intercultural communication  
+- Participating in cross-cultural academic collaboration and international student exchange  
+- Developing German language proficiency and global business perspectives
 
 ---
 
@@ -118,6 +126,17 @@ _Global Youth Trends Forum_ | Nov. 2023
 - **Content Creation**: Instagram (Reels, Shorts, Posts)  
 - **Tools**: Microsoft Office (Excel, PowerPoint, Word)  
 - **Communication & Teamwork**
+
+---
+### SQL Data Cleaning Project
+- Cleaned and merged multiple order datasets
+- Designed primary keys and normalized table structure
+- Practiced SQL queries for business analysis
+
+### KNIME Order File Cleansing Workflow
+- Built an automated data cleaning workflow
+- Validated order quantity, product ID, and customer data
+- Documented correction rules for customer explanation
 
 ---
 
