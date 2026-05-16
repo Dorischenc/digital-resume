@@ -143,7 +143,7 @@ _Global Youth Trends Forum_ | Nov. 2023
 ## 🌍 Languages
 
 - **English**: IELTS 7 (2024), TOEIC 910 (2022)  
-- **German**: Basic conversational, actively learning  
+- **German**: Actively learning B1-B2
 
 ---
 
